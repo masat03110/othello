@@ -14,3 +14,7 @@ To run the game, you need to make the reversi server by the code our proffessor 
 ```bash
 $ make
 ```
+
+## Achievements
+
+By adapting the inputs and outputs of this code to [Condingame](https://www.codingame.com/multiplayer/bot-programming/othello-1/leaderboard), it took 36th place in the world.
