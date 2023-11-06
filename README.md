@@ -17,4 +17,4 @@ $ make
 
 ## Achievements
 
-By adapting the inputs and outputs of this code to [Condingame](https://www.codingame.com/multiplayer/bot-programming/othello-1/leaderboard), it took 36th place in the world.
+By adapting the inputs and outputs of this code to [Condingame](https://www.codingame.com/multiplayer/bot-programming/othello-1/leaderboard), it took 36th place in the world under the name [get_tanni](https://www.codingame.com/profile/f0fadaf382fa0366d87d7e00cf680c416845165).
