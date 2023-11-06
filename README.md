@@ -9,7 +9,7 @@ If you are a student of my university, you can use this code for your assignment
 
 You need to have Rust installed on your machine. You can install it from [here](https://www.rust-lang.org/tools/install).
 
-To run the game, you need to make the reversi server by the code our proffessor give. Then, clone the repository and run the following command in the root directory of the project:
+To run the game, you need to make the reversi server by the code our proffessor gives. Then, clone the repository and run the following command in the root directory of the project:
 
 ```bash
 $ make
