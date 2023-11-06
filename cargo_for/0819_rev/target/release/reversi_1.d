@@ -1,0 +1,1 @@
+/home/tsuka/kadai/rust_/reversi/cargo_for/0819_rev/target/release/reversi_1: /home/tsuka/kadai/rust_/reversi/cargo_for/0819_rev/src/main.rs /home/tsuka/kadai/rust_/reversi/cargo_for/0819_rev/src/reversi.rs

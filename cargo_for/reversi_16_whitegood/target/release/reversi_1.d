@@ -1,0 +1,1 @@
+/home/tsuka/kadai/rust_/reversi/cargo_for/reversi_16_whitegood/target/release/reversi_1: /home/tsuka/kadai/rust_/reversi/cargo_for/reversi_16_whitegood/src/main.rs /home/tsuka/kadai/rust_/reversi/cargo_for/reversi_16_whitegood/src/reversi.rs
